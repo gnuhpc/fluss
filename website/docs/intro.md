@@ -37,5 +37,6 @@ The following is a list of (but not limited to) use-cases that Fluss shines ✨:
 - [QuickStart](quickstart/flink.md): Get started with Fluss in minutes.
 - [Architecture](concepts/architecture.md): Learn about Fluss's architecture.
 - [Table Design](table-design/overview.md): Explore Fluss's table types, partitions and buckets.
+- [Multi-Protocol Support (CAPE)](concepts/cape.md): Learn how to use HBase, Redis, Kafka, and PostgreSQL protocols with Fluss.
 - [Lakehouse](streaming-lakehouse/overview.md): Integrate Fluss with your Lakehouse to bring low-latency data to your Lakehouse analytics.
 - [Development](/community/dev/ide-setup): Set up your development environment and contribute to the community.
