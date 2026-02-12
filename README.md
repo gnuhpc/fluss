@@ -53,6 +53,7 @@ Apache Spark, and StarRocks are coming soon.
 - **Real-Time Updates**: Cost-efficient partial updates for large-scale data without expensive join operations.
 - **Changelog Generation**: Complete changelogs for streaming processors, streamlining analytics workflows.
 - **Lookup Queries**: Ultra-high QPS for primary key lookups, enabling efficient dimension table serving.
+- **Multi-Protocol Support (CAPE)**: Support for HBase, Redis, Kafka, and PostgreSQL wire protocols via [Fluss CAPE](https://github.com/gnuhpc/fluss-cape), enabling seamless migration for existing ecosystems.
 
 ## Building
 
